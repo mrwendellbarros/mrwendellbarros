@@ -1,7 +1,4 @@
-### Olá! Eu sou o Wendell
-
-- 🔭 apaixonado por programação.
-- 🌱 estudante de Sistemas para Internet-IFPB.
+### Olá!
 
 <div align="center">
   <a href="https://github.com/mrwendellbarros">
