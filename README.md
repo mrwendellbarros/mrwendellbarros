@@ -1,7 +1,7 @@
-### Hello! 
-Currently studying Javascript.
+### Olá! 
+Atualmente estudando JavaScript.
 
-I have some Projects using HTML, CSS and Javascript.
+Tenho alguns projetos feitos com as tecnologias HTML, CSS e JavaScript.
 
 <div align="center">
   <a href="https://github.com/mrwendellbarros">
