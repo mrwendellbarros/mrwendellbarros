@@ -1,4 +1,5 @@
-### Olá! Currently studying Javascript.
+### Hello! 
+Currently studying Javascript.
 
 I have some Projects using HTML, CSS and Javascript.
 
