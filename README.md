@@ -1,4 +1,8 @@
-### Olá!
+### Olá! Currently studying Javascript.
+
+I have some Projects using HTML, CSS and Javascript.
+
+My E-mail: wendell7gabriel@gmail.com
 
 <div align="center">
   <a href="https://github.com/mrwendellbarros">
