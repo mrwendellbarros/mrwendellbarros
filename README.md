@@ -1,7 +1,7 @@
 ### Olá! 
 Atualmente estudando JavaScript.
 
-Tenho alguns projetos feitos com as tecnologias HTML, CSS e JavaScript.
+Tenho alguns projetos feitos com as tecnologias: HTML, CSS e JavaScript.
 
 <div align="center">
   <a href="https://github.com/mrwendellbarros">
