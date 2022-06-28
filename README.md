@@ -1,5 +1,5 @@
 ### Olá! 
-Atualmente estudando JavaScript.
+Atualmente estudando JavaScript | NodeJS.
 
 Tenho alguns projetos feitos com as tecnologias: HTML, CSS e JavaScript.
 
