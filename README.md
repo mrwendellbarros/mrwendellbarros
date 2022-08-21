@@ -1,5 +1,5 @@
 ### Olá! 
-Atualmente estudando desenvolvimento web.
+Atualmente estudando desenvolvimento Front-end.
 
 Tenho alguns projetos feitos com as tecnologias: HTML, CSS e JavaScript.
 
