@@ -1,5 +1,5 @@
 ### Olá! 
-Atualmente estudando desenvolvimento Front-end.
+Atualmente cursando Sistemas para Internet - IFPB.
 
 Tenho alguns projetos feitos com as tecnologias: HTML, CSS e JavaScript.
 
