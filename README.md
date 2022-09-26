@@ -1,5 +1,6 @@
-### Olá! 
-Atualmente cursando Sistemas para Internet - IFPB.
+### Olá!
+
+     Atualmente estou cursando Sistemas para Internet, buscando evoluir junto com a tecnologia e aprimorar meus conhecimentos com a finalidade de facilitar a vida das pessoas, através da tecnologia.
 
 Tenho alguns projetos utilizando as tecnologias: HTML, CSS e JavaScript.
 
