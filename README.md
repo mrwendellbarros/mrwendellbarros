@@ -4,9 +4,9 @@ Atualmente estou cursando Sistemas para Internet, buscando evoluir junto com a t
 ##
 
 <div align="center">
-  <a href="https://github.com/mrwendellbarros">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrwendellbarros&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrwendellbarros&layout=compact&langs_count=7&theme=merko"/>
+  <a href="http://www.github.com/mrwendellbarros"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrwendellbarros&theme=merko&hide_border=true" alt="GitHub Commits Graph" /></a>
+  <br><br>
+<a href="http://www.github.com/mrwendellbarros"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mrwendellbarros&bg_color=1c1917&color=ffffff&line=0cd0cd&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><br><br>
 </div>
  
 <div style="display: inline_block"><br>
