@@ -8,7 +8,7 @@ Atualmente estou cursando Sistemas para Internet, buscando evoluir junto com a t
   <br><br>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrwendellbarros&layout=compact&langs_count=4&theme=merko&hide_border=true"/>
   <br><br>
-<a href="http://www.github.com/mrwendellbarros"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mrwendellbarros&bg_color=1c1917&color=ffffff&line=0cd0cd&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><br><br>
+
 </div>
  
 <div align="center" style="display: inline_block"><br>
