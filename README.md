@@ -1,6 +1,5 @@
 ### Olá!
-
-Atualmente estou cursando Sistemas para Internet, buscando evoluir junto com a tecnologia e aprimorar meus conhecimentos com a finalidade de facilitar a vida das pessoas, através da tecnologia.
+   Atualmente, estou cursando a formação acadêmica em Sistemas para Internet. Durante meus estudos, adquiri um sólido conhecimento teórico em linguagens de programação, algoritmos e estruturas de dados. Também tive a oportunidade de trabalhar em projetos acadêmicos que me permitiram aplicar meus conhecimentos e aprimorar minhas habilidades de resolução de problemas. Além disso, sou uma pessoa autodidata e estou constantemente buscando oportunidades de aprendizado. Tenho me dedicado a projetos pessoais, onde tenho desenvolvido habilidades práticas em linguagens como Python, Javascript, Java e adquirido experiência em projetos relacionados a programação web. Sou altamente motivado, comprometido e apaixonado pela programação. Estou disposto a trabalhar duro, aprender rapidamente e contribuir para os objetivos da equipe. Tenho habilidades de comunicação eficazes, capacidade de trabalhar em equipe e uma mentalidade orientada para a resolução de problemas.
 ##
 
 <div align="center">
