@@ -1,6 +1,10 @@
 ### Olá!
 ##
 
+Sou dedicado a tecnologia, com foco em desenvolvimento de software e cibersegurança. Tenho experiência prática em linguagens como JavaScript, Kotlin, Python e Java, além de conhecimento em desenvolvimento web, containers Docker, controle de versão com Git/GitHub e fundamentos de banco de dados.
+
+Busco constantemente me atualizar e aprimorar minhas habilidades técnicas para contribuir com projetos que gerem valor real.
+
 <div align="center">
   <a href="http://www.github.com/mrwendellbarros"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrwendellbarros&theme=merko&hide_border=true" alt="GitHub Commits Graph" /></a>
 
